@@ -42,4 +42,5 @@ async function main() {
 
 main();
 
+// Export the app as a serverless function for Vercel
 module.exports = app;
